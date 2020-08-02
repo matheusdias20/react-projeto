@@ -1,183 +1,344 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Nerdcast Stories",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "cor": "#dcd5c1",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Como os dados transformaram o maior basquete do mundo?",
+          "url": "https://www.youtube.com/watch?v=niW6LVTg8N8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "NÃO É O IDEAL, MAS ACONTECE",
+          "url": "https://www.youtube.com/watch?v=PR5o1AcNwgc"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "ENTUBADA NO RESTAURANTE",
+          "url": "https://www.youtube.com/watch?v=HBxQL7uKBIc"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "A CALÇA NÃO!",
+          "url": "https://www.youtube.com/watch?v=Vz1HUMu8kgs"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "BARIÁTRICA SELVAGEM",
+          "url": "https://www.youtube.com/watch?v=HUBlFgDIkmQ"
+        },         
+        {
+          "titulo": "P*TASSO NO CINEMA",
+          "url": "https://www.youtube.com/watch?v=EoP407BuNU4"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "QUER UMA BALINHA?",
+          "url": "https://www.youtube.com/watch?v=BPur8TFoE7A6"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "VALE NA CARA?",
+          "url": "https://www.youtube.com/watch?v=EjWwprD4YKI"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "TUCANO ABDUZIDO",
+          "url": "https://www.youtube.com/watch?v=nCkj8LmXcqA"
+        },
+        {
+          "titulo": "ENCANTADOR DE BANDIDO",
+          "url": "https://www.youtube.com/watch?v=cUSiKataotM"
+        },
+        {
+          "titulo": "O BÁRBARO E A ROSA",
+          "url": "https://www.youtube.com/watch?v=r88pcjvxF1g"
+        },
+        {
+          "titulo": "A ROSA E O BEHOLDER",
+          "url": "https://www.youtube.com/watch?v=HllVIW6ggiU"
+        },
+        {
+          "titulo": "PEDINDO DINHEIRO NO PEDÁGIO",
+          "url": "https://www.youtube.com/watch?v=S55QtaMFHLY"
+        },
+        {
+          "titulo": "ETIQUETA A MESA",
+          "url": "https://www.youtube.com/watch?v=2cINP8v9PaA"
+        },
+        {
+          "titulo": "A COBRA QUE FAZ CHOVER",
+          "url": "https://www.youtube.com/watch?v=2Nu-votSyyE"
+        }, 
+        {
+          "titulo": "TEM COISAS MELHORES DO QUE BACON!",
+          "url": "https://www.youtube.com/watch?v=o1us-hjd5po"
+        },   
+        {
+          "titulo": "VENOM, CARNAGE E MR. CATRA",
+          "url": "https://www.youtube.com/watch?v=tRhqN262TcU1"
+        },   
+        {
+          "titulo": "BARATA VOA",
+          "url": "https://www.youtube.com/watch?v=PyDrw4zw_qw"
+        },   
+        {
+          "titulo": "ICE BAR",
+          "url": "https://www.youtube.com/watch?v=jfLNLhj0z_Y"
+        }                  
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "Hipsters Ponto Talks",
+      "cor": "#7d66c8",
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Hipsters Ponto Talks #9 - Como e por que escolher um framework para seus projetos?",
+          "url": "https://www.youtube.com/watch?v=32syicYi3XM"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Hipsters Ponto Talks #10 - Matemática para programação e Data Science",
+          "url": "https://www.youtube.com/watch?v=rLoP0B1PYjU"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Hipsters Ponto Talks #11 - Criando uma API com Django",
+          "url": "https://www.youtube.com/watch?v=BKChTO8GADk"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Hipsters Ponto Talks #12 - Começando com Kafka",
+          "url": "https://www.youtube.com/watch?v=aaCqcX30pzc"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Hipsters Ponto Talks #13 - Data Science e Covid-19",
+          "url": "https://www.youtube.com/watch?v=puUPkii0-aM"
+        },
+        {
+          "titulo": "Hipsters Ponto Talks #14 - Programação é um trabalho criativo?",
+          "url": "https://www.youtube.com/watch?v=MFzERsSIGmI"
+        },
+        {
+          "titulo": "Hipsters Ponto Talks #15 - Começando com Power BI",
+          "url": "https://www.youtube.com/watch?v=DE-guF6ZL8Y"
+        },
+        {
+          "titulo": "Hipsters Ponto Talks #16 - Dicas de Excel para o dia-a-dia",
+          "url": "https://www.youtube.com/watch?v=iav5kU-x-S8"
         }
       ]
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Qual a diferença entre Inteligência Artificial, Machine Learning, Data Science, Deep Learning, etc?",
+          "url": "https://www.youtube.com/watch?v=ccZ2pyr3YDw"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
+          "titulo": "MELHOR FORMA DE APRENDER PYTHON (Google Colab Notebook)",
           "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Data Science: Introdução a Ciência de Dados (Primeira aula prática programando em Python)",
+          "url": "https://www.youtube.com/watch?v=F608hzn_ygo"
+        },
+        {
+          "titulo": "Machine Learning: Tutorial prático usando apenas o navegador (é sensacional!!!)",
+          "url": "https://www.youtube.com/watch?v=JyGGMyR3x5I"
+        },
+        {
+          "titulo": "Data Visualization: crie os melhores gráficos para os seus dados",
+          "url": "https://www.youtube.com/watch?v=qLiEDvs57nk"
+        },
+        {
+          "titulo": "O que é Python?",
+          "url": "https://www.youtube.com/watch?v=-LATVnPcvHI"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU"
+        },
+        {
+          "titulo": "O que é Deep Learning?",
+          "url": "https://www.youtube.com/watch?v=kryIBKPVZ7A"
+        },
+        {
+          "titulo": "O que é Machine Learning? ",
+          "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk"
+        },
+        {
+          "titulo": "Usei Inteligência Artificial para ANALISAR os áudios do PC Siqueira - DeepFake?",
+          "url": "https://www.youtube.com/watch?v=adQRy6EtdwI"
+        },
+        {
+          "titulo": "O Google sabe de tudo (MESMO)",
+          "url": "https://www.youtube.com/watch?v=7mnf9p4rt5U"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Segurança da Informação",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "VOCÊ TAPA A SUA WEBCAM? Olha o que rolou com a minha namorada - Gabriel Pato",
+          "url": "https://www.youtube.com/watch?v=2bpAg2QI-HM"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "EU NÃO SOU UM ROBÔ. Entenda como sites diferenciam humanos de máquinas - Gabriel Pato",
+          "url": "https://www.youtube.com/watch?v=2pH7zmA-P5Q"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "SEU NAVEGADOR PODE SER RASTREADO? Veja como os sites fazem pra saber mais sobre você - Gabriel Pato",
+          "url": "https://www.youtube.com/watch?v=PmHhbilRpOU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "TRAPACEANDO NO JOGUINHO: Quando o server não sabe guardar segredos... ft. Diana Zambrozuski",
+          "url": "https://www.youtube.com/watch?v=Inflk5fb4Ls"
+        },
+        {
+          "titulo": "ATAQUE DE NEGAÇÃO DE SERVIÇO - DoS/DDoS",
+          "url": "https://www.youtube.com/watch?v=MZEYzYDJAkQ"
+        },
+        {
+          "titulo": "Rastrear o Endereço de Alguém na Internet: É possível?",
+          "url": "https://www.youtube.com/watch?v=6WZox0-Tc3k"
+        },
+        {
+          "titulo": "Como HACKEARAM os políticos? Foi simples!",
+          "url": "https://www.youtube.com/watch?v=MTB6JKL-UFw"
+        },
+        {
+          "titulo": "Hackeei o Instagram pra VOLTAR OS LIKES do feed!",
+          "url": "https://www.youtube.com/watch?v=ZCWbr5He36k"
+        },
+        {
+          "titulo": "Suas SENHAS estão em VAZAMENTOS pela internet? Descubra! - Dica do Pato #01",
+          "url": "https://www.youtube.com/watch?v=3qQ2WdRYO3A"
+        },
+        {
+          "titulo": "LUDMILLA e outras CELEBRIDADES foram HACKEADAS!",
+          "url": "https://www.youtube.com/watch?v=xpNoNNUMpGg"
+        },
+        {
+          "titulo": "Ganhei 45 MIL REAIS por uma FALHA do FACEBOOK 🔥",
+          "url": "https://www.youtube.com/watch?v=Q0pKIwHbI5s"
+        },
+        {
+          "titulo": "Falha GRAVE da UOL permite invasão por um simples envio de E-MAIL 🔥",
+          "url": "https://www.youtube.com/watch?v=Ud-Z3vrJKTk"
+        },
+        {
+          "titulo": "Como canais de Youtube estão sendo HACKEADOS? - Ft. Teafe",
+          "url": "https://www.youtube.com/watch?v=x3XNiboiCFM"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Linguagem Corporal",
+      "cor": "#6b5f6c",
+      "videos": [
+        {
+          "titulo": "O Herói que matou os próprios filhos! Mick Philpott (Análise de Linguagem Corporal - Metaforando)",
+          "url": "https://www.youtube.com/watch?v=_EiMmc14DFM&t=6s"
+        },
+        {
+          "titulo": "O Psicopata que Ouvia Vozes: Culpado? (Casos de Linguagem Corporal - com Advogado Criminalista)",
+          "url": "https://www.youtube.com/watch?v=8Mp24vJCNWA"
+        },
+        {
+          "titulo": "O‌ ‌Sorriso‌ ‌da‌ ‌Mãe‌ Assassina‌: ‌Susan‌ ‌Smith‌ ‌(Casos‌ ‌de‌ ‌Linguagem‌ ‌Corporal)",
+          "url": "https://www.youtube.com/watch?v=_RUtJGfTq8U"
+        },
+        {
+          "titulo": "Caso Rafael Winques: Morto pela própria Mãe? (Análise de Linguagem Corporal ft. Alberto Dell'isola)",
+          "url": "https://www.youtube.com/watch?v=RK7DOkGcxgQ"
+        },
+        {
+          "titulo": "O Assassino da minha infância (Casos de Linguagem Corporal - Metaforando)",
+          "url": "https://www.youtube.com/watch?v=0u1ZDLOgSuU"
+        },
+        {
+          "titulo": "Rhuan foi vítima de Paranoia Assassina? (Casos de Linguagem Corporal - Metaforando)",
+          "url": "https://www.youtube.com/watch?v=5qpe8aNsKLs"
+        },
+        {
+          "titulo": "Faça Escolhas como um Gangster (Inteligência Emocional, Linguagem Corporal)",
+          "url": "https://www.youtube.com/watch?v=ow9WDbKC2CI"
+        },
+        {
+          "titulo": "SHERLOCK - Como Ser Mais Atento!",
+          "url": "https://www.youtube.com/watch?v=HsvxfllG_zw"
+        },
+        {
+          "titulo": "Como se Proteger e Evitar uma Briga? Defesa Pessoal (Feat. Weslley Gimenez - Krav Maga Caveira)",
+          "url": "https://www.youtube.com/watch?v=Spb02H6WaRI"
+        },
+        {
+          "titulo": "Como 'analisar' pessoas por fotos? (Linguagem Corporal - Metaforando)",
+          "url": "https://www.youtube.com/watch?v=rFFbYiZ5q_U"
+        },
+        {
+          "titulo": "Como Detectar Mentiras por Ligações? (Linguagem Corporal - Metaforando)",
+          "url": "https://www.youtube.com/watch?v=LxrdrUFnUGs"
+        },
+        {
+          "titulo": "CORINGA: Como 'criar' um Assassino? ('Análise Comportamental' - Metaforando)",
+          "url": "https://www.youtube.com/watch?v=9kIBYzxIwwo"
+        },
+        {
+          "titulo": "Como Psicopatas usam sua Confiança? (Linguagem Corporal - Metaforando)",
+          "url": "https://www.youtube.com/watch?v=-Zr0Tr4zEkU"
+        },
+        {
+          "titulo": "Persuasão para Liderar Pessoas (Linguagem Corporal - Metaforando)",
+          "url": "https://www.youtube.com/watch?v=Cr_3aA18r3U"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "titulo": "Webinar",
+      "cor": "#c22750",
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "[Webinar] Como a Inteligência Artificial Mudou o Mundo do Marketing - com Pyr Marcondes e Interney",
+          "url": "https://www.youtube.com/watch?v=utBoEPaqEPg"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Webinar: Power BI - Por onde começar",
+          "url": "https://www.youtube.com/watch?v=6qlo3S4ggyQ"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Webinar: Computação em nuvem & Transformação digital",
+          "url": "https://www.youtube.com/watch?v=VAL4sfD4bY0"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Webinar: Criando uma campanha de anúncios para Facebook e Instagram em 30 minutos",
+          "url": "https://www.youtube.com/watch?v=ug8G-5z7J0A"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Webinar: O que as empresas estão fazendo para vender em tempos de covid?",
+          "url": "https://www.youtube.com/watch?v=pFIfvL05gBI"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Webinar: Ser Desenvolvedor não é um dom | Digital House Brasil",
+          "url": "https://www.youtube.com/watch?v=yflIZe5HUCI"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Webinar: Mulheres no Ecommerce | Digital House Brasil",
+          "url": "https://www.youtube.com/watch?v=Lg23HG6QHgE"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Webinar Impactos da Covid-19 na LGPD | Digital House Brasil",
+          "url": "https://www.youtube.com/watch?v=a8HMvDiU2pk"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Webinar: Como as empresas usam UX hoje?| Digital House Brasil",
+          "url": "https://www.youtube.com/watch?v=EJaJTDO6uDI"
+        },
+        {
+          "titulo": "Webinar: Dados e Marketing - os desafios com o Covid-19 | Digital House Brasil",
+          "url": "https://www.youtube.com/watch?v=mTboq1nbtyw"
+        },
+        {
+          "titulo": "Webinar: Tendências em Full Stack | Digital House Brasil",
+          "url": "https://www.youtube.com/watch?v=8Oq0nxjeiqY"
         }
       ]
     }

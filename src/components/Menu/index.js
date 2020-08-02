@@ -12,9 +12,9 @@ function Menu() {
         <img className="Logo" src={Logo} alt="AluraFlix logo" />
       </Link>
 
-      <Button as={Link} className="ButtonLink" to="/cadastro/video">
+      {/* <Button as={Link} className="ButtonLink" to="/cadastro/video">
         Novo vídeo
-      </Button>
+      </Button> */}
     </nav>
   );
 }
