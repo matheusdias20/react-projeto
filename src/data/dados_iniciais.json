@@ -1,86 +1,85 @@
 {
   "categorias": [
     {
-      "titulo": "Nerdcast Stories",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#dcd5c1",
+      "titulo": "Filipe Deschamps",
+      "cor": "#0000FF",
       "videos": [
         {
           "titulo": "Como os dados transformaram o maior basquete do mundo?",
           "url": "https://www.youtube.com/watch?v=niW6LVTg8N8"
         },
         {
-          "titulo": "NÃO É O IDEAL, MAS ACONTECE",
-          "url": "https://www.youtube.com/watch?v=PR5o1AcNwgc"
+          "titulo": "HACKEARAM O SEU CÉREBRO",
+          "url": "https://www.youtube.com/watch?v=_hobgOFDekg"
         },
         {
-          "titulo": "ENTUBADA NO RESTAURANTE",
-          "url": "https://www.youtube.com/watch?v=HBxQL7uKBIc"
+          "titulo": "Agora Aquela I.A. Foi Longe Demais (e vai mudar o jeito que você trabalha)",
+          "url": "https://www.youtube.com/watch?v=pbVwH8o837A&t=21s"
         },
         {
-          "titulo": "A CALÇA NÃO!",
-          "url": "https://www.youtube.com/watch?v=Vz1HUMu8kgs"
+          "titulo": "Lembra Daquela I.A. Que Programava Sozinha? Então...",
+          "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
         },
         {
-          "titulo": "BARIÁTRICA SELVAGEM",
-          "url": "https://www.youtube.com/watch?v=HUBlFgDIkmQ"
+          "titulo": "Programar Mais Rápido e Ser Mais Produtivo no Visual Studio Code (VSCode)",
+          "url": "https://www.youtube.com/watch?v=FCC2GbStmfc"
         },         
         {
-          "titulo": "P*TASSO NO CINEMA",
-          "url": "https://www.youtube.com/watch?v=EoP407BuNU4"
+          "titulo": "E Agora? Nova Inteligência Artificial Começou a Programar Sozinha",
+          "url": "https://www.youtube.com/watch?v=KdgKQoq1jk0"
         },
         {
-          "titulo": "QUER UMA BALINHA?",
-          "url": "https://www.youtube.com/watch?v=BPur8TFoE7A6"
+          "titulo": "Os 3 Livros Que Fizeram Eu Não Desistir da Programação (e o que aprendi com eles)",
+          "url": "https://www.youtube.com/watch?v=Uh0Kn2aXEqY"
         },
         {
-          "titulo": "VALE NA CARA?",
-          "url": "https://www.youtube.com/watch?v=EjWwprD4YKI"
+          "titulo": "Eu quero saber se você consegue responder essas 3 perguntas de JavaScript!",
+          "url": "https://www.youtube.com/watch?v=QVrrqgDhhu4"
         },
         {
-          "titulo": "TUCANO ABDUZIDO",
-          "url": "https://www.youtube.com/watch?v=nCkj8LmXcqA"
+          "titulo": "O Framework Que Vai Mudar Como Você Faz Desenvolvimento Web Daqui Pra Frente",
+          "url": "https://www.youtube.com/watch?v=WVtijTZPZck"
         },
         {
-          "titulo": "ENCANTADOR DE BANDIDO",
-          "url": "https://www.youtube.com/watch?v=cUSiKataotM"
+          "titulo": "Seja um Programador Melhor: 10 Repositórios SENSACIONAIS no GitHub (tudo Open Source!)",
+          "url": "https://www.youtube.com/watch?v=vGQSG_YnTOw"
         },
         {
-          "titulo": "O BÁRBARO E A ROSA",
-          "url": "https://www.youtube.com/watch?v=r88pcjvxF1g"
+          "titulo": "Programadores Altamente Eficazes: 7 Hábitos",
+          "url": "https://www.youtube.com/watch?v=cJx0k_ln1-g"
         },
         {
-          "titulo": "A ROSA E O BEHOLDER",
-          "url": "https://www.youtube.com/watch?v=HllVIW6ggiU"
+          "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa (mesmo sem ter o dom da programação)",
+          "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE"
         },
         {
-          "titulo": "PEDINDO DINHEIRO NO PEDÁGIO",
-          "url": "https://www.youtube.com/watch?v=S55QtaMFHLY"
+          "titulo": "Tudo sobre as Tecnologias, Infraestrutura e Frameworks de uma Startup de 1 pessoa só",
+          "url": "https://www.youtube.com/watch?v=NYdrAIPLhIw"
         },
         {
-          "titulo": "ETIQUETA A MESA",
-          "url": "https://www.youtube.com/watch?v=2cINP8v9PaA"
-        },
-        {
-          "titulo": "A COBRA QUE FAZ CHOVER",
-          "url": "https://www.youtube.com/watch?v=2Nu-votSyyE"
+          "titulo": "680 Recursos Grátis para Programadores Frontend, Backend, DevOps e Designers",
+          "url": "https://www.youtube.com/watch?v=tpaSZ8x21PI"
         }, 
         {
-          "titulo": "TEM COISAS MELHORES DO QUE BACON!",
-          "url": "https://www.youtube.com/watch?v=o1us-hjd5po"
+          "titulo": "O que dá para aprender com os ganhadores do Hackathon da Shawee?",
+          "url": "https://www.youtube.com/watch?v=rgP5BDHduB0"
+        },    
+        {
+          "titulo": "Ideia nova de carreira na Programação (profissional MUITO valorizado!!!)",
+          "url": "https://www.youtube.com/watch?v=ekbi5vKSGy4"
         },   
         {
-          "titulo": "VENOM, CARNAGE E MR. CATRA",
-          "url": "https://www.youtube.com/watch?v=tRhqN262TcU1"
-        },   
+          "titulo": "Como pedir um aumento sem sentir medo (e sem deixar o chefe bravo)",
+          "url": "https://www.youtube.com/watch?v=rnQ087shdyc"
+        },
         {
-          "titulo": "BARATA VOA",
-          "url": "https://www.youtube.com/watch?v=PyDrw4zw_qw"
-        },   
+          "titulo": "O que um Sênior sabe, que um Pleno não sabe e um Júnior menos ainda",
+          "url": "https://www.youtube.com/watch?v=DYz3A9DT-Qc"
+        },
         {
-          "titulo": "ICE BAR",
-          "url": "https://www.youtube.com/watch?v=jfLNLhj0z_Y"
-        }                  
+          "titulo": "6 dicas fundamentais para um código de qualidade",
+          "url": "https://www.youtube.com/watch?v=MMAu_1KMcMA"
+        }                      
       ]
     },
     {
@@ -118,6 +117,14 @@
         {
           "titulo": "Hipsters Ponto Talks #16 - Dicas de Excel para o dia-a-dia",
           "url": "https://www.youtube.com/watch?v=iav5kU-x-S8"
+        },
+        {
+          "titulo": "Hipsters Ponto Talks #17 - A importância da comunicação na área de TI",
+          "url": "https://www.youtube.com/watch?v=UU4TnEbsl38"
+        },
+        {
+          "titulo": "Hipsters Ponto Talks #18 - O trabalho da área de social media",
+          "url": "https://www.youtube.com/watch?v=kvpOp3ZcY9Y"
         }
       ]
     },
