@@ -5,6 +5,9 @@
   <span>O Projeto consiste em uma Aplicação Web baseada na interface da Netflix.</span>
 </p>
 
+<p align="center">
+  <img src="src/assets/img/home.jpeg" alt="">
+</p>
 
 
 
